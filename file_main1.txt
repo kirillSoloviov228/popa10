@@ -1,2 +1,3 @@
 "Hello from main1 branch" 
 "Additional changes in file_main1.txt" 
+"More changes in file_main1.txt" 
